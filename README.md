@@ -17,6 +17,7 @@
     - For Backend Springboot application IntelliJ IDEA is recommended
     - VS Code for ReactJS frontend application
 - Postman for working with APIs
+- Any Web browser
 
 
 
